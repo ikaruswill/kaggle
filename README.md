@@ -1,2 +1,2 @@
 # kaggle
-Kaggle notebooks
+My work on Kaggle projects so far
